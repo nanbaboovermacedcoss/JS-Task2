@@ -1,0 +1,48 @@
+#headerDiv{
+    width: 70%;
+    margin: auto;
+    margin-top: 110px;
+    text-align: center;
+    font-size: 40px;
+    background-color: rgba(172, 255, 47, 0.473);
+    border-radius: 10px;
+    color: white;
+}
+.value{
+    color: violet;
+}
+b{
+    font-weight: bold;
+}
+body{
+    background-color: rgb(219, 145, 93);
+}
+.comman{
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px 0px white;
+    background-color: coral;
+    text-align: center;
+    margin: auto;
+    font-family: Arial;
+}
+.offer{
+    margin-top: 40px;
+    padding: 15px;
+    width: 70%;
+    font-size: 40px;
+    color: blue;
+}
+mark{
+    background-color: rgb(235, 78, 57);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#month{
+    margin-top: 15px;
+    color: green;
+    width: 70%;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 40px;
+}
